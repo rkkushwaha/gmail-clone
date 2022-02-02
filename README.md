@@ -9,4 +9,4 @@ Live Link: https://clone-11ead.web.app
 
 Step 1: Click on login by gmail account
 Step 2: Compose the mail & send
-Step 3: To logout click on Profile icon
+Step 3: To logout click on Profile icon.
